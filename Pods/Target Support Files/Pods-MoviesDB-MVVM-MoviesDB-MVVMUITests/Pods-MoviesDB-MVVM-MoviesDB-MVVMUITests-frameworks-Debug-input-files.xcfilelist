@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-MoviesDB-MVVM-MoviesDB-MVVMUITests/Pods-MoviesDB-MVVM-MoviesDB-MVVMUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/NVActivityIndicatorView/NVActivityIndicatorView.framework
+${BUILT_PRODUCTS_DIR}/UIFontComplete/UIFontComplete.framework
